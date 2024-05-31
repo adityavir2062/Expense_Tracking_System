@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: solid;
+
+
+}
+
+
+.tracking{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:cornflowerblue;
+    height: 150px;
+    border-radius: 3%;
+}
